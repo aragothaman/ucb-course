@@ -1,0 +1,11 @@
+{
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "translucency": false,
+  "textFontFamily": "Avenir",
+  "baseFontSize": 14,
+  "accentColor": "",
+  "showViewHeader": false,
+  "baseFontSizeAction": false,
+  "showRibbon": true
+}

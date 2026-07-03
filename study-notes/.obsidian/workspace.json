@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "a1c30368fe614a19",
+    "type": "split",
+    "children": [
+      {
+        "id": "334b8ead774c8e4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "128a16ebbacf6a38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Linear Algebra/01-Introduction.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "01-Introduction"
+            }
+          },
+          {
+            "id": "4c80adbbe0faee12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "module_1/This is a test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "This is a test"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bfaebf34f7df55cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "020e86b42ca991cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e265426e0fb6e398",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3d67cee020c65670",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "virtual memory",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6887afa6437ead37",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "starred"
+            }
+          },
+          {
+            "id": "243f34df3decf2dd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e4d16e960fedb587",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ca4eb9dcb362bcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f4cbbd17d900f04",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/LLM/Models.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Models"
+            }
+          },
+          {
+            "id": "c734c7d475c2fe55",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/LLM/Models.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Models"
+            }
+          },
+          {
+            "id": "82ec64beefe713e4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "93554668b4329a28",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/LLM/Models.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Models"
+            }
+          },
+          {
+            "id": "193b6103cf2a59a1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          },
+          {
+            "id": "abf5e765f432bb50",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "e265426e0fb6e398",
+  "lastOpenFiles": [
+    "docs/Operating System/02-OS Structures.md",
+    "docs/Operating System/03-Process Management.md",
+    "docs/Database/Time Series Data.md",
+    "docs/Database/DB Selection.md",
+    "docs/LLM/Models.md",
+    "docs/API.md",
+    "docs/docs.md",
+    "().md",
+    "docs/images/Pasted image 20250426211844.png",
+    "docs/images/Pasted image 20250426211910.png",
+    "docs/Operating System/01-Introduction.md",
+    "docs/pdfs/suffix-array-to-suffix-tree.pdf",
+    "docs/pdfs/suffix-array.pdf",
+    "docs/pdfs/Identity and Customer 360 Services Operational Excellence.pdf",
+    "docs/pdfs/fail-at-scale.pdf",
+    "docs/Python/Data Types.md",
+    "docs/SDCaseStudies/Google PubSub.md",
+    "docs/StreamingSystems/Kafka.md",
+    "docs/StreamingSystems/StreamingSystems.md",
+    "docs/System Design/SRE Book/22-Preventing Cascading Failures.md",
+    "docs/System Design/SRE Book/SLO Definition.md",
+    "docs/System Design/Active User Count.md",
+    "docs/System Design/Important Ideas.md",
+    "docs/System Design/SRE Book/20 - Routing Traffic.md",
+    "docs/Data Structure & Algo/String/KMP.md",
+    "docs/StreamingSystems/01-Overview.md",
+    "docs/Information Retrieval/03-Efficient List Intersection.md",
+    "docs/LL.md",
+    "docs/LLM",
+    "docs/Information Retrieval/04-Compression.md",
+    "docs/Information Retrieval/02- Ranking and Evaluation.md",
+    "docs/Information Retrieval/01 - Introduction.md",
+    "docs/EventDrivenArchitecture/EventDrivenArchitecture.md",
+    "docs/images/Pasted image 20230730215956.png",
+    "docs/images/Pasted image 20230730222520.png",
+    "docs/images/Pasted image 20230730222500.png",
+    "docs/images/Pasted image 20230708152006.png",
+    "docs/Linear Algebra",
+    "docs/images/Pasted image 20230728162142.png",
+    "docs/images/Pasted image 20230728160840.png",
+    "docs/images/Pasted image 20230407134025.png",
+    "docs/images/Pasted image 20230705134836.png",
+    "docs/NLP",
+    "docs/Spark",
+    "docs/GenAI"
+  ]
+}
