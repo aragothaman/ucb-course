@@ -1,0 +1,7 @@
+![[Pasted image 20260702232309.png]]
+
+
+What other examples are there of the mystery box metaphor? Have you observed any systems in your specific industry or life that operate in the same way as the mystery box? Share one such example that comes to mind for you, and explain how it reflects the mystery box metaphor.
+
+
+I am part of a company which that has multiple "software as a service" offering. Typical customers purchase multiple products. One of the key metrics that we monitor is propensity score for customers either to cross sell other products or predict customer churn. Given the SAAS offering, retention is a very important metric to optimize. Predicting it correctly enables interventions to increase the probability of a positive outcome for the company. Typical input parameters for churn include customer's level of satisfaction, their engagement with the product e.g. completion of key workflows, customer support issues and resolution they have run into and price sensitivity of the customer. While there can be a myriad different reasons for customers to churn, some of these parameters are key early indicators. This is used to generate an aggregate probability of churn as an output. Interventions are offered (e.g. discounts ) based on the output score. It mimics the mystery box analogy - multiple inputs, prediction of likelihood of churn as the output and a non deterministic model to convert inputs to outputs. 

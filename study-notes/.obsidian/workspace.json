@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "module_1/This is a test.md",
+                "file": "module_2/Multivariate Distribution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "This is a test"
+              "title": "Multivariate Distribution"
+            }
+          },
+          {
+            "id": "7e3ee7aa5c695bf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "module_3/Creating Data Visualization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Creating Data Visualization"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/LLM/Models.md",
+                "file": "module_1/Statistical Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Models"
+              "title": "Backlinks for Statistical Analysis"
             }
           },
           {
@@ -200,12 +214,12 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,8 +233,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e265426e0fb6e398",
+  "active": "7e3ee7aa5c695bf9",
   "lastOpenFiles": [
+    "module_3/Data Science Life Cycle.md",
+    "module_3/Creating Data Visualization.md",
+    "Pasted image 20260717213141.png",
+    "module_2/Multivariate Distribution.md",
+    "module_3",
+    "Pasted image 20260710222155.png",
+    "zimages/Pasted image 20260710221103.png",
+    "zimages/Pasted image 20260710221921.png",
+    "zimages/Pasted image 20260710221459.png",
+    "zimages/Pasted image 20260703123337.png",
+    "module_2",
+    "capstone/Instructions.md",
+    "module_1/Pandas.md",
+    "capstone",
+    "zimages/Pasted image 20260703124844.png",
+    "module_1/Statistical Analysis.md",
+    "zimages/Pasted image 20260703000207.png",
+    "zimages/Pasted image 20260702235732.png",
+    "module_1/Introduction to machine learning.md",
+    "zimages/Pasted image 20260702232309.png",
+    "zimages",
     "docs/Operating System/02-OS Structures.md",
     "docs/Operating System/03-Process Management.md",
     "docs/Database/Time Series Data.md",
@@ -229,8 +264,6 @@
     "docs/API.md",
     "docs/docs.md",
     "().md",
-    "docs/images/Pasted image 20250426211844.png",
-    "docs/images/Pasted image 20250426211910.png",
     "docs/Operating System/01-Introduction.md",
     "docs/pdfs/suffix-array-to-suffix-tree.pdf",
     "docs/pdfs/suffix-array.pdf",
@@ -246,25 +279,7 @@
     "docs/System Design/Important Ideas.md",
     "docs/System Design/SRE Book/20 - Routing Traffic.md",
     "docs/Data Structure & Algo/String/KMP.md",
-    "docs/StreamingSystems/01-Overview.md",
-    "docs/Information Retrieval/03-Efficient List Intersection.md",
-    "docs/LL.md",
     "docs/LLM",
-    "docs/Information Retrieval/04-Compression.md",
-    "docs/Information Retrieval/02- Ranking and Evaluation.md",
-    "docs/Information Retrieval/01 - Introduction.md",
-    "docs/EventDrivenArchitecture/EventDrivenArchitecture.md",
-    "docs/images/Pasted image 20230730215956.png",
-    "docs/images/Pasted image 20230730222520.png",
-    "docs/images/Pasted image 20230730222500.png",
-    "docs/images/Pasted image 20230708152006.png",
-    "docs/Linear Algebra",
-    "docs/images/Pasted image 20230728162142.png",
-    "docs/images/Pasted image 20230728160840.png",
-    "docs/images/Pasted image 20230407134025.png",
-    "docs/images/Pasted image 20230705134836.png",
-    "docs/NLP",
-    "docs/Spark",
-    "docs/GenAI"
+    "docs/Linear Algebra"
   ]
 }
