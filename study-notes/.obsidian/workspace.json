@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "module_3/Creating Data Visualization.md",
+                "file": "module_4/Steps to Data Cleaning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Creating Data Visualization"
+              "title": "Steps to Data Cleaning"
             }
           }
         ],
@@ -235,8 +235,11 @@
   },
   "active": "7e3ee7aa5c695bf9",
   "lastOpenFiles": [
-    "module_3/Data Science Life Cycle.md",
+    "Pasted image 20260725182847.png",
     "module_3/Creating Data Visualization.md",
+    "module_4/Steps to Data Cleaning.md",
+    "module_4",
+    "module_3/Data Science Life Cycle.md",
     "Pasted image 20260717213141.png",
     "module_2/Multivariate Distribution.md",
     "module_3",
@@ -277,9 +280,6 @@
     "docs/System Design/SRE Book/SLO Definition.md",
     "docs/System Design/Active User Count.md",
     "docs/System Design/Important Ideas.md",
-    "docs/System Design/SRE Book/20 - Routing Traffic.md",
-    "docs/Data Structure & Algo/String/KMP.md",
-    "docs/LLM",
-    "docs/Linear Algebra"
+    "docs/LLM"
   ]
 }
