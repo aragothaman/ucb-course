@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study-notes/capstone/Project Ideas.md",
+                "file": "study-notes/Precision -Recall.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Ideas"
+              "title": "Precision -Recall"
             }
           }
         ]
@@ -190,10 +190,15 @@
   },
   "active": "9f8215564ba8eb0e",
   "lastOpenFiles": [
+    "module_12/colab_activity12_2_starter.zip",
+    "module_12/colab_activity12_3_starter.zip",
+    "module_12/M10-QRG.pdf",
+    "Pasted image 20261004233358.png",
+    "study-notes/capstone/Project Ideas.md",
+    "study-notes/Precision -Recall.md",
     "study-notes/capstone/datasets_context.md",
     "study-notes/capstone/wellbeing-ml-paper-datasets.md",
     "study-notes/capstone/Untitled.md",
-    "study-notes/capstone/Project Ideas.md",
     "study-notes/capstone/Instructions.md",
     "study-notes/zimages/Pasted image 20260710222155.png"
   ]
